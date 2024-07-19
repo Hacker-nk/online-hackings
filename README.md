@@ -39,10 +39,10 @@ Explore tools and techniques for ethical hacking of Android devices.
 
 Learn about Remote Access Tools (RATs) and explore 20 private RAT tools for ethical hacking purposes.
 
-## Closing & Ethical Hacker's Handbook
+### DARK HACKING COURSE 
 [click here](https://wa.me/916235369260)
 #
-This course provides comprehensive information about ethical hacking and various tools used in the field.
+### ETHICAL HACKING COURSE 
 
 For more details and resources, please refer to the individual folders and files within this repository.
 #
