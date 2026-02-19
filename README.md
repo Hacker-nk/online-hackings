@@ -3,7 +3,7 @@
 ### WhatsApp hacking
 [click here](https://wa.me/916235369260)
 #
-Explore techniques for whatsapp hacking .
+Explore techniques for whatsapp hacking 
 
 ### Facebook Hacking
 [click here](https://wa.me/916235369260)
