@@ -1,5 +1,5 @@
 # online-hackings
-https://zerodayinstitute.netlify.app
+https://masterhack.netlify.app
 #
 ### WhatsApp hacking
 [click here](https://wa.me/919187514600)
